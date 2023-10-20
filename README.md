@@ -1,6 +1,6 @@
 # Genetic Algorithm Optimization Web Application
 
-![Project Logo](./project_logo.png)
+![Project Logo](./project_logo.png.png)
 project_logo.png
 
 ## Overview
